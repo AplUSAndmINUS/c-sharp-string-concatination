@@ -1,0 +1,14 @@
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/bin/Debug/net7.0/c-sharp-string-concat
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/bin/Debug/net7.0/c-sharp-string-concat.deps.json
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/bin/Debug/net7.0/c-sharp-string-concat.runtimeconfig.json
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/bin/Debug/net7.0/c-sharp-string-concat.dll
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/bin/Debug/net7.0/c-sharp-string-concat.pdb
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.AssemblyInfoInputs.cache
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.AssemblyInfo.cs
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.csproj.CoreCompileInputs.cache
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.dll
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/refint/c-sharp-string-concat.dll
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.pdb
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/c-sharp-string-concat.genruntimeconfig.cache
+/Users/terence/source/repos/c-sharp-string-concatination/c-sharp-string-concat/obj/Debug/net7.0/ref/c-sharp-string-concat.dll
